@@ -1,0 +1,9 @@
+{
+  "name": "pomo",
+  "source": [
+    "src/index.html"
+  ],
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
